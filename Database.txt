@@ -1,0 +1,36 @@
+hi|hello|hey
+Hello!|Hi there!|How can I help you today?
+what is your name?|name
+I am a chatbot.|You can call me ChatGPT.|I'm just a bot.
+how are you?
+I am good thank you for asking| Good, how are you
+therapy|help|health center|doctor
+your nearest health center is the SMU Health Center
+what is anxiety|anxiety|anxious
+Anxiety is a common mental health condition characterized by excessive worry and fear. It can be managed through therapy and medication.
+what is depression|depression|depressed
+Depression is a mood disorder that causes persistent sadness and loss of interest. It's treatable with therapy and medication.
+manage|management|coping
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist|Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+tell me more about anxiety|tell me about anxiety
+Anxiety is a natural response to stress, but when it becomes overwhelming, it can lead to various symptoms. Would you like to learn more about the symptoms or ways to manage it?
+what is therapy|therapy
+Therapy, also known as counseling, is a treatment approach aimed at addressing emotional and psychological issues. It involves talking to a trained professional who can help you work through your concerns.
+I'm feeling stressed|I'm stressed
+It's normal to feel stressed from time to time. What's been causing your stress, and is there anything specific you'd like to talk about?
+what is mindfulness|mindfulness
+Mindfulness is a practice that involves being fully present in the moment, without judgment. It can be a helpful technique for reducing stress and anxiety. Would you like to learn how to practice mindfulness?
+how can I improve my mental health|improve mental health
+ Improving your mental health involves self-care, seeking support, and adopting healthy habits. Let's discuss some strategies that may work for you.
+I can't sleep|can't sleep
+Sleep problems can be related to various factors, including stress and anxiety. I can provide you with some tips for improving your sleep quality.
+what is self care|self care
+Self-care involves taking time for yourself to recharge and address your emotional and physical needs. It's an essential part of maintaining good mental health.
+I'm feeling overwhelmed|feeling overwhelmed
+Feeling overwhelmed is common at times. Let's explore some coping strategies and ways to manage the feeling of being overwhelmed.
+can you recommend a self-help book|self-help book
+Certainly! There are many self-help books on a wide range of topics. Are you looking for a specific type of book, or do you have a particular area of self-improvement in mind?
+how can I boost my self-esteem|boost self-esteem
+Boosting self-esteem involves self-acceptance and positive self-talk. I can provide you with tips and exercises to help improve your self-esteem.
+quit|exit
+Goodbye!|Bye!|Take care!
