@@ -16,7 +16,7 @@ server.bind((IP_address, Port))
 server.listen(100)
 list_of_clients = []
 
-def clientthread(conn, addr, clients):
+def clientthread(conn, addr):
     conn.send("Welcome to this therapy session".encode('utf-8'))
     chatbot = initialize_chatbot("database.txt")
 
