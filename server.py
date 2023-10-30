@@ -15,24 +15,6 @@ Port = int(sys.argv[2])
 server.bind((IP_address, Port))
 server.listen(100)
 list_of_clients = []
-# def clientthread(conn, addr, clients):
-#     conn.send("Welcome to this therapy session".encode('utf-8'))
-#     chatbot = initialize_chatbot("database.txt")
-#     while True:
-#         try:
-#             message = conn.recv(2048)
-#             if message:
-#                 print("<" + addr[0] + "> " + message.decode('utf-8'))
-#                 response = chatbot.respond(message.decode('utf-8'))
-#                 if is_response_empty(response):
-#                     conn.send('I am sorry, I did not get that'.encode('utf-8'))
-#                 else:
-#                     conn.send(response.encode('utf-8'))
-#             else:
-#                 remove(conn)
-#
-#         except:
-#             continue
 
 def clientthread(conn, addr, clients):
     conn.send("Welcome to this therapy session".encode('utf-8'))
