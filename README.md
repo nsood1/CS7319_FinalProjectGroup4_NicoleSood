@@ -1,4 +1,4 @@
-# TherapyBot - Nicole Sood, CS7314
+# TherapyBot - Nicole Sood, CS7319
 
 **NOTES:** The readMe below provides a brief desciption on how to compile the project, differences between architectures as well as the rationel of my selection. Please refer to the word doc in the repo if you would like a more detailed write up about the different architectures I explored, as well as the pro's and con's for each. 
 
