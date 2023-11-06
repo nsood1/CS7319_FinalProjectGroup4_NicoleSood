@@ -92,3 +92,5 @@ goodbye
 goodbye
 bye
 goodbye
+hi
+hello awesome
