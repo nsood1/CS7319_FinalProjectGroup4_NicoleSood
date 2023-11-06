@@ -1,7 +1,9 @@
+import os.path
 import socket
 import sys
 from main import *
 from _thread import *
+from readindatabase import *
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -15,18 +17,21 @@ Port = int(sys.argv[2])
 server.bind((IP_address, Port))
 server.listen(100)
 list_of_clients = []
-
-def clientthread(conn, addr):
+def menuoptions():
+    if os.path.exists('therapy.db'):
+        databaseupkeep = input("Do you want to add more prompts. 1 = Yes, 0 = No     ")
+        while databaseupkeep == "1":
+            add()
+            databaseupkeep = input("Continue = 1, Quit = 0")
+def clientthread(conn, addr, clients):
     conn.send("Welcome to this therapy session".encode('utf-8'))
-    chatbot = initialize_chatbot("database.txt")
-
+    chatbot = initialize_chatbot("data.txt")
     while True:
         try:
             message = conn.recv(2048)
             if message:
                 print("<" + addr[0] + "> " + message.decode('utf-8'))
                 response = chatbot.respond(message.decode('utf-8'))
-                print(response)
                 if response == None:
                     conn.send("Sorry, I didn't understand".encode('utf-8'))
                 else:
@@ -36,7 +41,6 @@ def clientthread(conn, addr):
         except Exception as e:
             print("Error:", e)
             continue
-
 def broadcast(message, connection):
     for clients in list_of_clients:
         if clients != connection:
@@ -49,6 +53,11 @@ def broadcast(message, connection):
 def remove(connection):
     if connection in list_of_clients:
         list_of_clients.remove(connection)
+
+
+restore()
+menuoptions()
+generaterecent()
 
 while True:
     conn, addr = server.accept()

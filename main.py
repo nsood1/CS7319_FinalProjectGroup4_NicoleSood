@@ -1,5 +1,8 @@
-import nltk
 from nltk.chat.util import Chat, reflections
+import sqlite3
+from readindatabase import *
+conn = sqlite3.connect('therapy.db')
+cursor = conn.cursor()
 def load_pairs_from_file(file_path):
     pairs = []
     with open(file_path, 'r') as file:
@@ -14,13 +17,10 @@ def initialize_chatbot(file_path):
     pairs = load_pairs_from_file(file_path)
     chatbot = Chat(pairs, reflections)
     return chatbot
-
-def is_response_empty(response):
-    # Check if the response is empty or contains only whitespace characters
-    return not response.strip()
 def main():
-    chatbot = initialize_chatbot("database.txt")
     print("Hello! I'm your chatbot. Type 'quit' or 'exit' to end the conversation.")
+    generaterecent()
+    chatbot = initialize_chatbot("data.txt")
     while True:
         user_input = input("You: ")
         if user_input.lower() == 'quit' or user_input.lower() == 'exit':

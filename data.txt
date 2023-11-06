@@ -1,0 +1,94 @@
+hi
+How can I help you today?
+hello
+How can I help you today?
+hey
+How can I help you today?
+name
+You can call me TherapyBot.
+how are you
+I am good thank you for asking
+therapy
+your nearest health center is the SMU Health Center
+help
+your nearest health center is the SMU Health Center
+health center
+your nearest health center is the SMU Health Center
+doctor
+your nearest health center is the SMU Health Center
+what is anxiety
+Anxiety is a common mental health condition characterized by excessive worry and fear. It can be managed through therapy and medication.
+anxiety
+Anxiety is a common mental health condition characterized by excessive worry and fear. It can be managed through therapy and medication.
+anxious
+Anxiety is a common mental health condition characterized by excessive worry and fear. It can be managed through therapy and medication.
+what is depression
+Depression is a mood disorder that causes persistent sadness and loss of interest. It's treatable with therapy and medication.
+depression
+Depression is a mood disorder that causes persistent sadness and loss of interest. It's treatable with therapy and medication.
+depressed
+Depression is a mood disorder that causes persistent sadness and loss of interest. It's treatable with therapy and medication.
+manage
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+managing
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+management
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+cope
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+coping
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+how do i manage anxiety
+To manage anxiety, you can try relaxation techniques, deep breathing exercises, and talking to a therapist. Managing depression involves therapy, medication, and lifestyle changes. It's important to seek professional help.
+what is therapy
+Therapy, also known as counseling, is a treatment approach aimed at addressing emotional and psychological issues. It involves talking to a trained professional who can help you work through your concerns.
+therapy
+Therapy, also known as counseling, is a treatment approach aimed at addressing emotional and psychological issues. It involves talking to a trained professional who can help you work through your concerns.
+do i need therapy
+Therapy, also known as counseling, is a treatment approach aimed at addressing emotional and psychological issues. It involves talking to a trained professional who can help you work through your concerns.
+I am stressed
+It's normal to feel stressed from time to time. What's been causing your stress, and is there anything specific you'd like to talk about?
+feelling stressed
+It's normal to feel stressed from time to time. What's been causing your stress, and is there anything specific you'd like to talk about?
+stess
+It's normal to feel stressed from time to time. What's been causing your stress, and is there anything specific you'd like to talk about?
+stressing
+It's normal to feel stressed from time to time. What's been causing your stress, and is there anything specific you'd like to talk about?
+mindful
+Mindfulness is a practice that involves being fully present in the moment, without judgment. It can be a helpful technique for reducing stress and anxiety. Would you like to learn how to practice mindfulness?
+mindfullness
+Mindfulness is a practice that involves being fully present in the moment, without judgment. It can be a helpful technique for reducing stress and anxiety. Would you like to learn how to practice mindfulness?
+what is mindfullness
+Mindfulness is a practice that involves being fully present in the moment, without judgment. It can be a helpful technique for reducing stress and anxiety. Would you like to learn how to practice mindfulness?
+how do i be mindfull
+Mindfulness is a practice that involves being fully present in the moment, without judgment. It can be a helpful technique for reducing stress and anxiety. Would you like to learn how to practice mindfulness?
+mental health
+Improving your mental health involves self-care, seeking support, and adopting healthy habits. Let's discuss some strategies that may work for you.
+how do i improve mental health
+Improving your mental health involves self-care, seeking support, and adopting healthy habits. Let's discuss some strategies that may work for you.
+improve
+Improving your mental health involves self-care, seeking support, and adopting healthy habits. Let's discuss some strategies that may work for you.
+sleep issues
+Sleep problems can be related to various factors, including stress and anxiety. I can provide you with some tips for improving your sleep quality.
+sleep problem
+Sleep problems can be related to various factors, including stress and anxiety. I can provide you with some tips for improving your sleep quality.
+sleep
+Sleep problems can be related to various factors, including stress and anxiety. I can provide you with some tips for improving your sleep quality.
+cant sleep
+Sleep problems can be related to various factors, including stress and anxiety. I can provide you with some tips for improving your sleep quality.
+sleep tips
+Music
+self care
+Self-care involves taking time for yourself to recharge and address your emotional and physical needs. It's an essential part of maintaining good mental health.
+what is self care
+Self-care involves taking time for yourself to recharge and address your emotional and physical needs. It's an essential part of maintaining good mental health.
+I'm feeling overwhelmed
+Feeling overwhelmed is common at times. Let's explore some coping strategies and ways to manage the feeling of being overwhelmed.
+overwhelmed
+Feeling overwhelmed is common at times. Let's explore some coping strategies and ways to manage the feeling of being overwhelmed.
+quit
+goodbye
+goodbye
+goodbye
+bye
+goodbye

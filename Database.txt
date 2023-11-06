@@ -1,7 +1,7 @@
 hi|hello|hey
 Hello!|Hi there!|How can I help you today?
 what is your name?|name
-I am a chatbot.|You can call me ChatGPT.|I'm just a bot.
+I am a TherapyBot.|You can call me TherapyBot.|I'm just a bot.
 how are you?
 I am good thank you for asking| Good, how are you
 therapy|help|health center|doctor

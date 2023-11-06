@@ -12,7 +12,7 @@ server.connect((IP_address, Port))
 
 while True:
     sockets_list = [sys.stdin, server]
-    read_sockets, write_socket, error_socket = select.select(sockets_list, [], [])
+    read_sockets, _, _ = select.select(sockets_list, [], [])
 
     for socks in read_sockets:
         if socks == server:
